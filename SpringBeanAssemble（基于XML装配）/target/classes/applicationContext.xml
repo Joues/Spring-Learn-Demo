@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    使用构造方法注入方式装配ComplexUser实例user1-->
+    <bean id="user1" class="assemble.ComplexUser">
+        <constructor-arg index="0" value="yihang1" />
+        <constructor-arg index="1">
+            <list>
+                <value>唱歌</value>
+                <value>跳舞</value>
+                <value>爬山</value>
+            </list>
+        </constructor-arg>
+
+        <constructor-arg index="2">
+            <map>
+                <entry key="dalian" value="大连" />
+                <entry key="beijing" value="北京" />
+                <entry key="shanghai" value="上海" />
+            </map>
+        </constructor-arg>
+
+        <constructor-arg index="3">
+            <set>
+                <value>逸航01</value>
+                <value>逸航02</value>
+                <value>逸航03</value>
+            </set>
+        </constructor-arg>
+
+        <constructor-arg index="4">
+            <array>
+                <value>aaaaa</value>
+                <value>bbbbb</value>
+            </array>
+        </constructor-arg>
+    </bean>
+
+<!--    使用属性的setter方法注入方式装配 ComplexUser实例user2-->
+    <bean id="user2" class="assemble.ComplexUser">
+        <property name="uname" value="yihang2" />
+        <property name="hobbyList">
+            <list>
+                <value>看书</value>
+                <value>学习Spring</value>
+            </list>
+        </property>
+
+        <property name="residenceMap" >
+            <map>
+                <entry key="shenzhen" value="深圳" />
+                <entry key="guangzhou" value="广州" />
+                <entry key="tianjin" value="天津" />
+            </map>
+        </property>
+
+        <property name="aliasSet">
+            <set>
+                <value>逸航04</value>
+                <value>逸航05</value>
+                <value>逸航06</value>
+            </set>
+        </property>
+
+        <property name="array">
+            <array>
+                <value>ccccc</value>
+                <value>ddddd</value>
+            </array>
+        </property>
+    </bean>
+</beans>

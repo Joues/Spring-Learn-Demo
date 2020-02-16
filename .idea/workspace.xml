@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eca0625-4ee6-4301-9256-80292f8b6bd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xs5LISuxnlif5bY8a8SGQrtM5Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eca0625-4ee6-4301-9256-80292f8b6bd5" name="Default Changelist" comment="" />
+      <created>1581821903448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581821903448</updated>
+      <workItem from="1581821911339" duration="174000" />
+      <workItem from="1581830556795" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="127" key="FileChooserDialogImpl" timestamp="1581830685505">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581830685505" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1581830576720">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581830576720" />
+    <state x="57" y="77" key="new project wizard" timestamp="1581830705686">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="77" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1581830705686" />
+  </component>
+</project>

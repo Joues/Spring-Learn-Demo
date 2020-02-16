@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de9c2976-2f91-4585-b777-ec390ad90412" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Pedro\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XsVvPDl5ejYDUUdptuOneYFlld" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YihangJou\Examples Demo（SSM+SpringBoot）\SpringDemo\SpringBeanAssemble（基于XML装配）\src\main\resources" />
+      <recent name="E:\YihangJou\Examples Demo（SSM+SpringBoot）\SpringDemo\SpringBeanAssemble（基于XML装配）\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestAssemble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestAssemble" />
+      <module name="SpringBeanAssembly_XML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAssemble" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9c2976-2f91-4585-b777-ec390ad90412" name="Default Changelist" comment="" />
+      <created>1581835018510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581835018510</updated>
+      <workItem from="1581835021423" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="182" key="FileChooserDialogImpl" timestamp="1581835377369">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="466" y="182" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581835377369" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1581835387135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581835387135" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1581835387134">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581835387134" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1581835387134">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581835387134" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1581835387135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581835387135" />
+    <state x="61" y="132" key="new project wizard" timestamp="1581835385966">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="61" y="132" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1581835385966" />
+    <state x="193" y="61" key="spring file set editor" timestamp="1581835079493">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="193" y="61" key="spring file set editor/0.0.1366.738@0.0.1366.738" timestamp="1581835079493" />
+  </component>
+</project>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="305bf369-5238-4674-9b52-3af1747d1eca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Pedro\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XsRdwopkpI4i2mQ6DJd0fmdAVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YihangJou\Examples Demo（SSM+SpringBoot）\SpringDemo\SpringBeanInstance（静态工厂实例化）\src\main\resources" />
+      <recent name="E:\YihangJou\Examples Demo（SSM+SpringBoot）\SpringDemo\SpringBeanInstance（静态工厂实例化）\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestInstance" />
+      <module name="SpringBeanInstance_StaticFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestInstance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="305bf369-5238-4674-9b52-3af1747d1eca" name="Default Changelist" comment="" />
+      <created>1581832906956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581832906956</updated>
+      <workItem from="1581832909538" duration="1373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="168" key="FileChooserDialogImpl" timestamp="1581834268745">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="168" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581834268745" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1581834283614">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581834283614" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1581834283614">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581834283614" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1581834283614">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581834283614" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1581834283614">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581834283614" />
+    <state x="213" y="27" key="Maven.ArtifactSearchDialog" timestamp="1581833034100">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="27" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1581833034100" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1581833225942">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581833225942" />
+    <state x="438" y="216" key="cloudConfig.SelfSettingsDialog" timestamp="1581833249523">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="216" key="cloudConfig.SelfSettingsDialog/0.0.1366.738@0.0.1366.738" timestamp="1581833249523" />
+    <state x="70" y="118" key="new project wizard" timestamp="1581834282311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="70" y="118" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1581834282311" />
+    <state x="192" y="61" key="spring file set editor" timestamp="1581833549970">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="192" y="61" key="spring file set editor/0.0.1366.738@0.0.1366.738" timestamp="1581833549970" />
+  </component>
+</project>
