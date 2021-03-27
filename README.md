@@ -30,6 +30,6 @@
 
 ## 标注：
 
-本人个人站点正在建设中，欢迎收藏：www.yihang.ml  。
+本人个人站点正在建设中，欢迎收藏：[ityihang.cn](https://www.ityihang.cn)  。
 
 本人博客园：https://www.cnblogs.com/yihangjou  。
